@@ -1,0 +1,12 @@
+
+* Description
+A Template for emacs org-mode export html.
+
+* Usage:
+Add the following line to your Org file:
+#+BEGIN_SRC ORG
+#+STYLE: <script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+#+STYLE: <script type="text/javascript" src="org.js"></script>
+#+STYLE: <link rel="stylesheet" type="text/css" href="org-style.css" />
+#+END_SRC
+
